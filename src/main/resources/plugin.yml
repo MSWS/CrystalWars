@@ -1,0 +1,16 @@
+name: CrystalWars
+main: xyz.msws.crystal.Main
+version: 1.3
+api-version: 1.16
+description: CrystalWars
+commands:
+   cw:
+      usage: /<command>
+      description: CrystalWars Main Command
+      aliases: [crystal]
+   team:
+      usage: /<command>
+      description: Queue for a team
+   kit:
+      usage: /<command>
+      descriptione: Choose a kit
